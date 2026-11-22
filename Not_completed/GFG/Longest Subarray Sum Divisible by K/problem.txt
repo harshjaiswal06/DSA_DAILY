@@ -1,0 +1,3 @@
+code is logically correct for brute force. The issue is TLE due to \(O(n^2)\) time complexity.
+
+Optimize using Prefix Sum + HashMap to achieve \(O(n)\).
